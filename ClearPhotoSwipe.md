@@ -167,7 +167,10 @@ The App does **not collect personal data** from you on the developer side. There
 
 ## 12. Changes to this Policy
 
-We may update this Privacy Policy from time to time. The current version is always available at the URL provided on the App Store listing and inside the App. The "Last updated" date at the top reflects the date of the latest revision. Material changes will be reflected by updating that date.
+We may update this Privacy Policy from time to time. The current version is always available at:
+[https://github.com/kdvlad36/PrivacyPolicy/blob/master/ClearPhotoSwipe.md](https://github.com/kdvlad36/PrivacyPolicy/blob/master/ClearPhotoSwipe.md)
+
+The "Last updated" date at the top reflects the date of the latest revision. Material changes will be reflected by updating that date.
 
 ---
 

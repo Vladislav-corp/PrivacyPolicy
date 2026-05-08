@@ -1,6 +1,6 @@
 # Cleanbook — Privacy Policy
 
-**Last updated:** 2026-05-07
+**Last updated:** 2026-05-08
 
 ## Overview / Обзор
 
@@ -46,9 +46,9 @@ All data is scoped to the app container and removed when you uninstall the app.
 
 ## Subscriptions and In-App Purchases / Подписки и покупки
 
-В текущей версии 1.0 Cleanbook не содержит подписок и встроенных покупок. Если они появятся в будущем — эта политика будет обновлена.
+Cleanbook предлагает встроенную покупку Pro, обрабатываемую Apple StoreKit. Cleanbook не получает и не хранит платёжные данные — они обрабатываются Apple. Cleanbook получает только статус активной покупки (entitlement) от Apple StoreKit on-device. Платёжная информация подчиняется Apple Privacy Policy.
 
-In version 1.0, Cleanbook contains no subscriptions or in-app purchases. If they are introduced later, this policy will be updated.
+Cleanbook offers an in-app Pro purchase processed by Apple StoreKit. Cleanbook does not receive or store payment information — it is handled by Apple. Cleanbook only receives the active entitlement status from Apple StoreKit on-device. Payment data is governed by Apple's Privacy Policy.
 
 ## Analytics / Аналитика
 
